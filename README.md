@@ -95,20 +95,25 @@ Folder           | 	Description
 ```solvers/```   |	Source code for custom solvers
 ```utilities/``` |	Source code for the Kistler model and custom function objects
 ```examples/```	 | Example case files
-```data/```	     | Data used in associated publications
+```data/```	     | Data used in associated publication
 ```figures/```   |	Plots and figures from the study
 
 
 ## 🧾 Citation
 If you use or build upon this solver, please cite:
 ```
-@software{YatinDarbar_diffusiveInterFoam_2025,
-  author = {Yatin Darbar},
-  title = {Droplet Mixing -- GitHub Repository},
-  year = {2025},
-  url = {https://github.com/yatin-darbar/Droplet_Mixing}
+@article{Darbar2026Role,
+  title = {Role of diffusion in mixing inkjet printed droplets},
+  author = {Darbar, Yatin and Ismail, Ahmed Said and Sykes, Thomas C. and Harbottle, David and Thompson, Harvey M. and Wilson, Mark C. T.},
+  journal = {Phys. Rev. Fluids},
+  pages = {},
+  year = {2026},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/q4tr-jknx},
+  url = {https://link.aps.org/doi/10.1103/q4tr-jknx}
 }
+
 ```
-(This will be updated with the publication citation once available.)
 
 
